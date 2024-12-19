@@ -1,5 +1,0 @@
-HEAD
-baris satu file1
-baris kedua
-baris satu file1
-741a7c3 (membuat file1.txt dan file2.txt)
