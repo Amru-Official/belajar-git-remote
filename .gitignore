@@ -1,8 +1,6 @@
-ignore folder
+# ignore folder
 cadangan/
-
-ignore extension
+# ignore ekstensi
 *.html
-
-ignore file
+# ignore file
 style.css
