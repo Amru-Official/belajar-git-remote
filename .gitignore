@@ -1,0 +1,6 @@
+# ignore folder
+cadangan/
+# ignore ekstensi
+*.html
+# ignore file
+style.css
